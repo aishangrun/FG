@@ -511,19 +511,19 @@
             "name": "🐬斯玛特直播(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯玛特直播源1"
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/斯玛特直播源1"
         },
         {
             "name": "🐬litv直播(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/litv直播"
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/litv直播"
         },
         {
             "name": "🐬港台大陆频道无18",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
         }
     ]
 }
