@@ -59,8 +59,8 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
         {
-			"key": "🐬爱瓜TV",
-			"name": "爱瓜TV｜追剧",
+			"key": "爱瓜TV",
+			"name": "🐬爱瓜TV｜追剧",
 			"type": 4,
 			"api": "http://zhangqun1818.serv00.net/aigua1.php"
 		},
