@@ -70,7 +70,8 @@
         {
            "key":"lanyingys",
            "name":"🐬橘子4K｜追剧",
-            "type":3,"api":"csp_Qiji",
+            "type":4,
+            "api":"csp_Qiji",
             "playerType":2,
             "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
         },
