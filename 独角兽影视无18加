@@ -612,12 +612,6 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         {
-            "name": "🦄4gTV(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://4gtv.iill.top/4gtv.m3u"
-        },
-        {
             "name": "🦄jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
